@@ -1,3 +1,4 @@
 # hello-world
-first repositpry
+first repository;
+yo man wassup??;
 #i am awesome
