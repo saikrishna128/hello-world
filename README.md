@@ -4,4 +4,4 @@ first repository;
 
 yo man wassup??;
 
-#i am awesome
+i am awesome
